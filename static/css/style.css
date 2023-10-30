@@ -1,0 +1,12 @@
+img {
+    width: 410px;
+    height: 230px;
+}
+
+h1  {
+    background-color: black;
+    color: antiquewhite;
+    line-height: 120px;
+    font-weight: bolder;
+    text-align: center;
+}
